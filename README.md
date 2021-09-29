@@ -1,4 +1,4 @@
-[![](https://badgen.net/github/license/micromatch/micromatch)](https://badgen.net/github/license/micromatch/micromatch)
+![](https://badgen.net/github/license/micromatch/micromatch)![](https://img.shields.io/github/checks-status/balabalabalalaba/suibi/main)![](https://img.shields.io/badge/Author-Xie-orange)![](https://img.shields.io/badge/Topic-Physics-blue)![](https://img.shields.io/github/commit-activity/m/balabalabalalaba/suibi/main?color=red)![](https://img.shields.io/github/issues-search?query=repo%3Abalabalabalalaba%2Fsuibi)
 
 # 物理学习随笔
 
