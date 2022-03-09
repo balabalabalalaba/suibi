@@ -9,3 +9,9 @@
 - [Github](https://github.com/balabalabalalaba/suibi)
 - [码云](https://gitee.com/cw_xie/informal-essay)
 
+## 仓库目录
+
+- [课程笔记](./课程笔记)
+  - 量子多体理论
+  - 量子光学
+- 随便写点
